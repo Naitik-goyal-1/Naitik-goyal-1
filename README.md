@@ -3,11 +3,11 @@
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=Naitik-goyal-1">
-    <img src="https://komarev.com/ghpvc/?username=Naitik-goyal-1&label=Profile%20views&color=00FFFF&style=flat-square" alt="Naitik-goyal-1's profile views" />
+   
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="Banner" width="100%" />
+
 
 ## 📌 About Me
 - 🎓 Mathematics & Computing Student .💻 Aspiring Software Engineer.📚 Currently mastering DSA, C++ & Web Development.🧠 Strong focus on logic, problem solving & fundamentals.🔨 Love building real-world projects
@@ -22,7 +22,7 @@
   <a href="https://github.com/Naitik-goyal-1">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Naitik-goyal-1&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="Naitik-goyal-1's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=Naitik-goyal-1&theme=radical&hide_border=true&cache_seconds=86400" alt="Naitik-goyal-1's GitHub Streak" width="49%" />
+
 </p>
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=Naitik-goyal-1&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Naitik Goyal's GitHub Trophies" />
