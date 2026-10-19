@@ -1,0 +1,89 @@
+PASS 5 SVGs present | ['about-life.svg', 'connect.svg', 'hero.svg', 'id-dashboard.svg', 'stack.svg']
+PASS about-life.svg well-formed XML
+PASS about-life.svg has width/height/viewBox | 0 0 1000 520
+PASS about-life.svg no script/foreignObject/event handlers
+PASS about-life.svg no external references | []
+PASS about-life.svg unique ids
+PASS about-life.svg all id references resolve | set()
+PASS about-life.svg ids namespaced 'about-' | []
+PASS about-life.svg fonts are data URIs
+PASS about-life.svg size < 2MB | 63 KB
+PASS connect.svg well-formed XML
+PASS connect.svg has width/height/viewBox | 0 0 1000 440
+PASS connect.svg no script/foreignObject/event handlers
+PASS connect.svg no external references | []
+PASS connect.svg unique ids
+PASS connect.svg all id references resolve | set()
+PASS connect.svg ids namespaced 'connect-' | []
+PASS connect.svg embedded PNG decodes + real alpha | (591, 640) transparent=57%
+PASS connect.svg fonts are data URIs
+PASS connect.svg size < 2MB | 917 KB
+PASS hero.svg well-formed XML
+PASS hero.svg has width/height/viewBox | 0 0 1000 440
+PASS hero.svg no script/foreignObject/event handlers
+PASS hero.svg no external references | []
+PASS hero.svg unique ids
+PASS hero.svg all id references resolve | set()
+PASS hero.svg ids namespaced 'hero-' | []
+PASS hero.svg embedded PNG decodes + real alpha | (565, 640) transparent=45%
+PASS hero.svg fonts are data URIs
+PASS hero.svg size < 2MB | 1051 KB
+PASS id-dashboard.svg well-formed XML
+PASS id-dashboard.svg has width/height/viewBox | 0 0 1000 760
+PASS id-dashboard.svg no script/foreignObject/event handlers
+PASS id-dashboard.svg no external references | []
+PASS id-dashboard.svg unique ids
+PASS id-dashboard.svg all id references resolve | set()
+PASS id-dashboard.svg ids namespaced 'idc-' | []
+PASS id-dashboard.svg embedded PNG decodes + real alpha | (494, 560) transparent=45%
+PASS id-dashboard.svg fonts are data URIs
+PASS id-dashboard.svg size < 2MB | 841 KB
+PASS stack.svg well-formed XML
+PASS stack.svg has width/height/viewBox | 0 0 1000 720
+PASS stack.svg no script/foreignObject/event handlers
+PASS stack.svg no external references | []
+PASS stack.svg unique ids
+PASS stack.svg all id references resolve | set()
+PASS stack.svg ids namespaced 'stack-' | []
+PASS stack.svg fonts are data URIs
+PASS stack.svg size < 2MB | 48 KB
+PASS assets/id.png original intact RGBA alpha | (1178, 1335)
+PASS assets/right_pointing.png original intact RGBA alpha | (1205, 1305)
+PASS README embeds ./assets/hero.svg?v=1
+PASS assets/hero.svg exists
+PASS README embeds ./assets/about-life.svg?v=1
+PASS assets/about-life.svg exists
+PASS README embeds ./assets/stack.svg?v=1
+PASS assets/stack.svg exists
+PASS README embeds ./assets/id-dashboard.svg?v=1
+PASS assets/id-dashboard.svg exists
+PASS README embeds ./assets/connect.svg?v=1
+PASS assets/connect.svg exists
+PASS README contains exact URL: AirCanvas
+PASS preview.html contains exact URL: AirCanvas
+PASS README contains exact URL: GoCart
+PASS preview.html contains exact URL: GoCart
+PASS README contains exact URL: FutureSelf
+PASS preview.html contains exact URL: FutureSelf
+PASS README contains exact URL: GitHub
+PASS preview.html contains exact URL: GitHub
+PASS README contains exact URL: LinkedIn
+PASS preview.html contains exact URL: LinkedIn
+PASS README contains exact URL: Instagram
+PASS preview.html contains exact URL: Instagram
+PASS README has no placeholders/TODO/fake metrics/YouTube/Topmate
+PASS README: social links appear after connect image
+PASS preview.html local-only (no http src/CDN/script)
+PASS preview.html asset files exist
+PASS LICENSES/OFL-BricolageGrotesque.txt non-empty
+PASS LICENSES/OFL-JetBrainsMono.txt non-empty
+PASS LICENSES/SimpleIcons-CC0-1.0.md non-empty
+PASS LICENSES/FontAwesome-Free-LICENSE.txt non-empty
+PASS LICENSES/MaterialDesignIcons-Pictogrammers-LICENSE.txt non-empty
+PASS LICENSES/THIRD-PARTY-NOTICES.md non-empty
+PASS URL syntax valid: AirCanvas
+PASS URL syntax valid: GoCart
+PASS URL syntax valid: FutureSelf
+PASS URL syntax valid: GitHub
+PASS URL syntax valid: LinkedIn
+PASS URL syntax valid: Instagram

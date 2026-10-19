@@ -1,20 +1,49 @@
-# Third-party licenses and sources
+<div align="center">
 
-All files were bundled locally; nothing is loaded from the network at runtime.
+![Hero](./assets/hero.svg?v=1)
 
-## Fonts (embedded as base64 WOFF2 subsets, Basic Latin + a few punctuation glyphs)
-| Font | Use | Source | License file |
-| --- | --- | --- | --- |
-| Bricolage Grotesque (Regular, Bold) | Display text | https://github.com/ateliertriay/bricolage | `OFL-BricolageGrotesque.txt` (SIL OFL 1.1) |
-| JetBrains Mono (Regular, Bold) | Monospaced text | https://github.com/JetBrains/JetBrainsMono | `OFL-JetBrainsMono.txt` (SIL OFL 1.1) |
+**Naitik Goyal** · Student Developer · Madhav Institute of Technology & Science, Gwalior
+<br>Software Developer · Full-Stack Developer · AI/ML Enthusiast
+<br>*Code with purpose. Build with vision. Innovate through technology.*
 
-Both OFL texts declare no Reserved Font Name, so subsetting and embedding is permitted. The TTFs came from the local font bundle; their name tables carry the OFL notice and copyright.
+</div>
 
-## Icons
-| Icons | Source | License file |
+## About Me
+
+![About Me](./assets/about-life.svg?v=1)
+
+I'm a student developer at Madhav Institute of Technology & Science, Gwalior, based in Gwalior, Madhya Pradesh, India.
+
+**Interests**
+
+1. 💻 Software Development & Problem Solving
+2. 🎨 UI/UX Design & Creative Designing
+3. 🚀 Exploring New Technologies & Building Projects
+
+## Technology Stack
+
+![Technology Stack](./assets/stack.svg?v=1)
+
+- **Programming languages:** C++, Python, JavaScript
+- **Frontend & backend:** React, Node.js, Express.js
+- **Databases, APIs & tools:** SQL, PostgreSQL, Supabase, Git, GitHub, REST APIs
+
+## Developer ID
+
+![Developer ID](./assets/id-dashboard.svg?v=1)
+
+## Projects
+
+| Project | Description | Repository |
 | --- | --- | --- |
-| C++, Python, JavaScript, React, Node.js, Express.js, PostgreSQL, Supabase, Git, GitHub, Instagram | Simple Icons (local copy bundled with mkdocs-material 9.7.6) | `SimpleIcons-CC0-1.0.md` (CC0 1.0) |
-| LinkedIn | Font Awesome Free 7.1.0 brands (Simple Icons no longer ships it) | `FontAwesome-Free-LICENSE.txt` (icons CC BY 4.0, attribution: "Font Awesome Free by Fonticons, Inc., https://fontawesome.com") |
-| SQL (database), REST APIs (api), map marker, school, laptop, palette, rocket | Material Design Icons (Pictogrammers) | `MaterialDesignIcons-Pictogrammers-LICENSE.txt` |
+| **AirCanvas — AI-Powered Virtual Drawing** | Draw in the air with your finger. AirCanvas turns your webcam into a virtual whiteboard using MediaPipe hand tracking, following your index finger in real time to draw continuous lines without a mouse, stylus, or touchscreen. | [AirCanvas-AI-Hand-Tracking-Virtual-Drawing](https://github.com/Naitik-goyal-1/AirCanvas-AI-Hand-Tracking-Virtual-Drawing) |
+| **GoCart — E-Commerce Web Application** | An e-commerce web application for a smooth, convenient online shopping experience, with an intuitive interface, product browsing, and shopping cart functionality. | [Go---Cart-](https://github.com/Naitik-goyal-1/Go---Cart-) |
+| **Your Future Self — Personal Growth Platform** | A personal development project that helps users reflect on their goals, visualize their future, and make better decisions, encouraging self-awareness, goal setting, and positive habits. | [your-Future-Self](https://github.com/Naitik-goyal-1/your-Future-Self) |
 
-SQL and REST APIs are not brands with an official logo, so generic concept glyphs are used and labelled with text. Brand marks remain trademarks of their owners; their use does not imply endorsement or certification.
+## Connect
+
+![Connect](./assets/connect.svg?v=1)
+
+- [GitHub](https://github.com/Naitik-goyal-1)
+- [LinkedIn](https://www.linkedin.com/in/naitik-goyal-og)
+- [Instagram](https://www.instagram.com/naitik.0g_?obrf=MXdsbThmMGdnejZ0Mw==)
