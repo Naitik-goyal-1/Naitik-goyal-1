@@ -12,7 +12,7 @@
 
 ![About Me](./assets/about-life.svg?v=1)
 
-I'm a software developer at Madhav Institute of Technology & Science, Gwalior, based in Gwalior, Madhya Pradesh, India.
+I'm a student developer at Madhav Institute of Technology & Science, Gwalior, based in Gwalior, Madhya Pradesh, India.
 
 **Interests**
 
