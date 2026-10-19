@@ -2,7 +2,7 @@
 
 ![Hero](./assets/hero.svg?v=1)
 
-**Naitik Goyal** · Student Developer · Madhav Institute of Technology & Science, Gwalior
+**Naitik Goyal** · Software Developer · Madhav Institute of Technology & Science, Gwalior
 <br>Software Developer · Full-Stack Developer · AI/ML Enthusiast
 <br>*Code with purpose. Build with vision. Innovate through technology.*
 
@@ -12,7 +12,7 @@
 
 ![About Me](./assets/about-life.svg?v=1)
 
-I'm a student developer at Madhav Institute of Technology & Science, Gwalior, based in Gwalior, Madhya Pradesh, India.
+I'm a software developer at Madhav Institute of Technology & Science, Gwalior, based in Gwalior, Madhya Pradesh, India.
 
 **Interests**
 
